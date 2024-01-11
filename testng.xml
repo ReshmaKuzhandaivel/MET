@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/ELCOT/IdeaProjects/Page--Object"><classes><class name="Lambdatests.Basics_Search"><methods><include name="Basicsearchtest"/></methods></class><class name="Lambdatests.ProductDetails"><methods><include name="productSearchTest"/></methods></class><class name="Lambdatests.Search_Filter"><methods><include name="AdvancedSearchTest"/></methods></class></classes></test></suite>
